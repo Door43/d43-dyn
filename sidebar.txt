@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dyn:home|Door43 (dyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dyn|d43-dyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dyn/archive/master.zip|d43-dyn.zip]]
+
+**Recent Changes**
+{{changes>ns = dyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dyn|Ethnologue data]]
+
